@@ -1,5 +1,0 @@
-services:
-  - type: web
-    runtime: static
-    name: verificador-pedidos-vw
-    staticPublishPath: .
